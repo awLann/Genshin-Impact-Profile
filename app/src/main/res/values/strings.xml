@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Genshin Impact Profile</string>
+    <string name="chara_name">Nama Character</string>
+    <string name="description">Deskripsi</string>
+    <string name="user_name">Muhammad Fajrul Alwan</string>
+    <string name="user_email">alwanfajrul20@gmail.com</string>
+    <string name="todo">TODO</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>Alhaitham</item>
+        <item>Eula</item>
+        <item>Furina</item>
+        <item>Ganyu</item>
+        <item>Hu Tao</item>
+        <item>Klee</item>
+        <item>Nahida</item>
+        <item>Neuvillete</item>
+        <item>Raiden Shogun</item>
+        <item>Yae Miko</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Alhaitham is a member of the Haravatat of the Sumeru Akademiya and the Akademiya\'s Scribe, responsible for documenting their findings and drafting ordinances. Despite his brilliance, people within the Akademiya are perplexed by Alhaitham due to his unwillingness to aspire for higher office in spite of his egocentricity, and many have been at odds with him for his uncompromising view on rationality and the truth. </item>
+        <item>Although a descendant of the infamous and tyrannical Lawrence Clan, Eula severed her ties with the clan and became the captain of the Reconnaissance Company with the Knights of Favonius.</item>
+        <item>Introduced as the flamboyant and overconfident Hydro Archon, Furina\'s theatrics are eventually revealed to be a public persona, which she later discards in favor of living a relatively humbler life as an actress and artistic consultant.</item>
+        <item>She is a half-qilin Adeptus under contract with the Geo Archon Morax and serves as the general secretary of the Liyue Qixing.</item>
+        <item>Hu Tao\'s antics and eccentricity belies her role as the 77th Director of the Wangsheng Funeral Parlor and her talent as a poet. Nevertheless, she treats the parlor\'s operations with utmost importance, and holds funeral ceremonies with the highest dignity and solemnity.</item>
+        <item>The daughter of the intrepid and often quite destructive adventurer Alice, Klee takes after her mother in many ways, much to the dismay of the Knights of Favonius whom she has been entrusted to.</item>
+        <item>As Lesser Lord Kusanali, she strives to have a stronger presence in Sumeru now that she has been freed from her extensive confinement in the Sanctuary of Surasthana.</item>
+        <item>Neuvillette is the Iudex of Fontaine, and the leader of the Marechaussee Phantom. While Neuvillette upholds the rules of the court with utmost reverence, he is quite aloof when dealing with human emotions and often distances himself from the public eye. Despite his human appearance, he is actually the Dragon of Water—the Hydro Sovereign.</item>
+        <item>The Raiden Shogun is comprised of two beings in one body: Ei, the current Electro Archon of Inazuma; and the Shogun, the puppet created by Ei to act as the ruler of Inazuma in her stead.</item>
+        <item>A kitsune of many facets, Yae Miko oversees the Grand Narukami Shrine, owns the Yae Publishing House, and is Electro Archon\'s servant and friend.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/alhaitham</item>
+        <item>@drawable/eula</item>
+        <item>@drawable/furina</item>
+        <item>@drawable/ganyu</item>
+        <item>@drawable/hu_tao</item>
+        <item>@drawable/klee</item>
+        <item>@drawable/nahida</item>
+        <item>@drawable/neuvillette</item>
+        <item>@drawable/raiden_shogun</item>
+        <item>@drawable/yae_miko</item>
+    </integer-array>
+    <string-array name="data_vision">
+        <item>Alhaitham is a playable Dendro character in Genshin Impact.</item>
+        <item>Eula Lawrence is a playable Cryo character in Genshin Impact.</item>
+        <item>Furina is a playable Hydro character in Genshin Impact who can alternate between Pneuma and Ousia alignments.</item>
+        <item>Ganyu is a playable Cryo character in Genshin Impact.</item>
+        <item>Hu Tao is a playable Pyro character in Genshin Impact.</item>
+        <item>Klee is a playable Pyro character in Genshin Impact.</item>
+        <item>Nahida is a playable Dendro character in Genshin Impact.</item>
+        <item>Neuvillette is a playable Pneuma-aligned Hydro character in Genshin Impact.</item>
+        <item>The Raiden Shogun is a playable Electro character in Genshin Impact.</item>
+        <item>Yae Miko, also known as Guuji Yae or the Guuji, is a playable Electro character in Genshin Impact.</item>
+    </string-array>
+    <string-array name="data_weapon">
+        <item>Sword</item>
+        <item>Claymore</item>
+        <item>Sword</item>
+        <item>Bow</item>
+        <item>Polearm</item>
+        <item>Catalyst</item>
+        <item>Catalyst</item>
+        <item>Catalyst</item>
+        <item>Polearm</item>
+        <item>Catalyst</item>
+    </string-array>
+</resources>
