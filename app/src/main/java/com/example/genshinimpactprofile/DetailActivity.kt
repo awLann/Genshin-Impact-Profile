@@ -12,10 +12,10 @@ class DetailActivity : AppCompatActivity() {
         setContentView(R.layout.activity_detail)
 
         val chara = if (Build.VERSION.SDK_INT >= 33) {
-            intent.getParcelableExtra<Chara>(MainActivity.INTENT_PARCELABLE, Chara::class.java)
+            intent.getParcelableExtra(MainActivity.INTENT_PARCELABLE, Chara::class.java)
         } else {
             @Suppress("DEPRECATION")
-            intent.getParcelableExtra<Chara>(MainActivity.INTENT_PARCELABLE)
+            intent.getParcelableExtra(MainActivity.INTENT_PARCELABLE)
         }
 
         val photo = findViewById<ImageView>(R.id.img_item_photo)
